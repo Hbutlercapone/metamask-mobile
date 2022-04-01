@@ -80,7 +80,7 @@
     "@metamask/contract-metadata": "^1.23.0",
     "@metamask/controllers": "^12.1.0",
     "@metamask/etherscan-link": "^2.0.0",
-    "@metamask/swaps-controller": "^4.0.0",
+    "@metamask/swaps-controller": "^6.6.0",
     "@react-native-community/async-storage": "1.12.1",
     "@react-native-community/blur": "^3.6.0",
     "@react-native-community/checkbox": "^0.4.2",
@@ -250,7 +250,7 @@
     "react-dom": "16.8.4",
     "react-native-cli": "2.0.1",
     "react-test-renderer": "16.13.1",
-    "regenerator-runtime": "0.13.1",
+    "regenerator-runtime": "0.13.9",
     "request-promise": "4.2.4",
     "rn-nodeify": "10.0.1",
     "stack-beautifier": "1.0.2"
