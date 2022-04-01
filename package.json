@@ -246,7 +246,7 @@
     "metro-react-native-babel-preset": "^0.59.0",
     "octonode": "0.9.5",
     "patch-package": "^6.2.2",
-    "prettier": "1.16.4",
+    "prettier": "2.6.1",
     "react-dom": "16.8.4",
     "react-native-cli": "2.0.1",
     "react-test-renderer": "16.13.1",
