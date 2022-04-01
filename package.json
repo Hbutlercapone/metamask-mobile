@@ -126,7 +126,7 @@
     "events": "3.0.0",
     "fuse.js": "3.4.4",
     "https-browserify": "0.0.1",
-    "improved-yarn-audit": "^2.3.3",
+    "improved-yarn-audit": "^3.0.0",
     "is-url": "^1.2.4",
     "json-rpc-engine": "^6.1.0",
     "json-rpc-middleware-stream": "3.0.0",
@@ -250,7 +250,7 @@
     "react-dom": "16.8.4",
     "react-native-cli": "2.0.1",
     "react-test-renderer": "16.13.1",
-    "regenerator-runtime": "0.13.1",
+    "regenerator-runtime": "0.13.9",
     "request-promise": "4.2.4",
     "rn-nodeify": "10.0.1",
     "stack-beautifier": "1.0.2"
