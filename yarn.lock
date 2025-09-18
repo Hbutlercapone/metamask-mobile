@@ -7224,7 +7224,7 @@ forever-agent@~0.6.1:
   resolved "https://registry.yarnpkg.com/forever-agent/-/forever-agent-0.6.1.tgz#fbc71f0c41adeb37f96c577ad1ed42d8fdacca91"
   integrity sha1-+8cfDEGt6zf5bFd60e1C2P2sypE=
 
-form-data@^4.0.0, form-data@^4.0.4:
+form-data@^4.0.4:
   version "4.0.4"
   resolved "https://registry.yarnpkg.com/form-data/-/form-data-4.0.4.tgz#784cdcce0669a9d68e94d11ac4eea98088edd2c4"
   integrity sha512-KrGhL9Q4zjj0kiUt5OO4Mr/A/jlI2jDYs5eHBpYHPcBEVSiipAvn2Ko2HnPe20rmcuuvMHNdZFp+4IlGTMF0Ow==
@@ -11502,10 +11502,10 @@ public-encrypt@^4.0.0:
     randombytes "^2.0.1"
     safe-buffer "^5.1.2"
 
-pubnub@9.8.4:
-  version "9.8.4"
-  resolved "https://registry.yarnpkg.com/pubnub/-/pubnub-9.8.4.tgz#08060d8841c06e78ae784253e42fb66a028634d5"
-  integrity sha512-WwG1nkVMA+PRmaMN44mejY6inyHLkbwnbd6SfkhPO4Evc8S+p8tMrdS50oTnJtbEyKQR3T4L2zRjyqEGI0Couw==
+pubnub@10.0.0:
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/pubnub/-/pubnub-10.0.0.tgz#7f69ec44f90afbd97988839f5cf8d6c10470690c"
+  integrity sha512-7mVrC638D4LqkMMR7CutUD+p230TZX45+hw3kSJQ3tQoDJU6pOisebN514g+Utfn2lSGwmbjV7e8gTU1XyIBNQ==
   dependencies:
     agentkeepalive "^3.5.2"
     buffer "^6.0.3"
